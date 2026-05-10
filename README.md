@@ -78,11 +78,6 @@ pip install numpy opencv-python matplotlib pillow tqdm pycocotools requests
 
 The script initializes the COCO API and loads all images containing the `person` category.
 
-```python
-coco = COCO('annotations/instances_train2017.json')
-catIds = coco.getCatIds(catNms=['person'])
-```
-
 ---
 
 ## 2. Extract Person Masks
