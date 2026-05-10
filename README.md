@@ -144,7 +144,6 @@ The visualization pipeline generates:
 Processed outputs are automatically saved in cropped and noncropped folders.
 
 ---
----
 
 # Application
 
